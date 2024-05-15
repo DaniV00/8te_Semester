@@ -1,0 +1,11 @@
+
+^
+java:S6208"CMerge the previous cases into this one using comma-separated label.(º¤¿şÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(¬ô¸üÿÿÿÿ
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(º¤¿şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ƒïá¬
+E	java:S106"+Replace this use of System.out by a logger.(º¤¿şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬ô¸üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(´Äğ
