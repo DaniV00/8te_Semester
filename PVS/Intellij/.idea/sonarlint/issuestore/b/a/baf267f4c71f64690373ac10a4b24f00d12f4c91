@@ -1,0 +1,60 @@
+
+b
+java:S1068"&Remove this unused "id" private field.(æ¨ç†J$adadf2d4-c4df-4c69-b748-eb3a11461eb0
+d
+java:S1068"(Remove this unused "name" private field.(Ë¥¼J$dd91c629-6784-4ce8-bcf3-7895360f5778
+j
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿJ$a4d60e64-0463-4e53-b19f-46c8ae3378db
+q
+java:S1068"0Remove this unused "manufacturer" private field.(‹ÙšıÿÿÿÿJ$f46899cf-f50b-4bbe-9ce4-7f50bd924174
+l
+java:S1068"0Remove this unused "serialNumber" private field.(§şŞ‰J$fd63684d-4284-4468-b3c3-475e3b683666
+o
+java:S1068
+"3Remove this unused "currentLocation" private field.(µÑ“üJ$ec0b155a-a8ff-4d09-b1d4-5f2c68123533
+p
+java:S1068"/Remove this unused "destination" private field.(¬†¾ØüÿÿÿÿJ$6871fdd7-4ecb-4c34-890c-b5dec152782d
+h
+java:S1068",Remove this unused "latitude" private field.(ÜşÛJ$0ff40122-bc49-4e9b-81d8-5045676d1678
+i
+java:S1068"-Remove this unused "longitude" private field.(ú²Ç˜J$7e44a8d9-227c-45d5-9091-677916e71368
+m
+java:S1068",Remove this unused "altitude" private field.(İß¦ØÿÿÿÿÿJ$5494b1af-8622-4c02-a2cf-4e19cc7503fe
+k
+java:S1068"/Remove this unused "enginePower" private field.(áäÄ²J$7062baf6-566e-4898-85e6-f228fd1a33e5
+p
+java:S1068"4Remove this unused "engineEfficiency" private field.(¾ñ°J$e41cca9b-7d07-4d7f-8a79-fc54650f8f78
+p
+java:S1068"5Remove this unused "engineTemperature" private field.(íù¶J$abd442c8-f6f9-4495-a941-6a431b8e86cd
+x
+java:S1068"7Remove this unused "coolingSystemStatus" private field.(·”¦ÄùÿÿÿÿJ$679912a7-1af3-4efd-8118-4576fa485144
+m
+java:S1068"1Remove this unused "cargoCapacity" private field.(éµ©‹J$13ed4a60-8dcc-4524-860b-395e8d00fbd4
+u
+java:S1068"4Remove this unused "currentCargoLoad" private field.(‚àıÿÿÿÿJ$247919a4-2fc8-4343-9fa2-1a15bcd0aafb
+n
+java:S1068"-Remove this unused "cargoType" private field.(ÆÔõáùÿÿÿÿJ$cbd8cb8b-7db1-4af8-bce4-6e4dd720347a
+j
+java:S1068"/Remove this unused "isCargoFull" private field.(²ç¸cJ$671a5a00-c0fa-4fc5-8a8e-8c76332f24cc
+q
+java:S1068"0Remove this unused "isCargoEmpty" private field.(È¸îüÿÿÿÿJ$64d65a70-7b77-4e43-98df-d2d3cc3a2301
+l
+java:S1068"0Remove this unused "crewCapacity" private field.(Ò†…ƒJ$24ac9a5c-c9ae-4abb-acd5-be305536b634
+k
+java:S1068"/Remove this unused "crewMembers" private field.(“¦â J$efdf03ef-caa9-4a1a-88ef-2e6eb80c4773
+m
+java:S1068"1Remove this unused "isCrewOnboard" private field.(ñ—¾ÁJ$7cbb4d70-f04f-4b9a-a579-c762f35ff610
+s
+java:S1068 "2Remove this unused "isCrewAssigned" private field.(ì‘è®ÿÿÿÿÿJ$88b3ec29-5bac-48ce-8429-e093d8fded57
+r
+java:S1068""6Remove this unused "ambientTemperature" private field.(ÕÆ„J$787d34b7-49a6-4339-a865-9f4a15ad22f6
+t
+java:S1068#"3Remove this unused "ambientHumidity" private field.(¹ú·¡úÿÿÿÿJ$5eb4082a-0e81-45c1-b460-02fda637a848
+i
+java:S1068$"-Remove this unused "windSpeed" private field.(ƒ§…®J$98100130-1847-4915-8690-638f1ee810f8
+u
+java:S1068%"4Remove this unused "currentCrewCount" private field.(„ê»şÿÿÿÿJ$1d4b8d19-5cac-43b6-8cbc-4c14aa9a7258
+r
+java:S1068&"1Remove this unused "windDirection" private field.(Ä·ùÏûÿÿÿÿJ$4e176dff-bf9d-4dc9-9208-82590e6cafa8
+k
+java:S1068'"/Remove this unused "sandDensity" private field.(´„µJ$7a132c92-7578-4c3c-bc9e-a94b72d6d791

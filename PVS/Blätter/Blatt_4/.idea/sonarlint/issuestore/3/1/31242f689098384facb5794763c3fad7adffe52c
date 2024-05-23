@@ -1,0 +1,60 @@
+
+<
+java:S1068"&Remove this unused "id" private field.(æ¨ç†
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+D
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿ
+K
+java:S1068"0Remove this unused "manufacturer" private field.(‹Ùšıÿÿÿÿ
+F
+java:S1068"0Remove this unused "serialNumber" private field.(§şŞ‰
+I
+java:S1068
+"3Remove this unused "currentLocation" private field.(µÑ“ü
+J
+java:S1068"/Remove this unused "destination" private field.(¬†¾Øüÿÿÿÿ
+B
+java:S1068",Remove this unused "latitude" private field.(ÜşÛ
+C
+java:S1068"-Remove this unused "longitude" private field.(ú²Ç˜
+G
+java:S1068",Remove this unused "altitude" private field.(İß¦Øÿÿÿÿÿ
+E
+java:S1068"/Remove this unused "enginePower" private field.(áäÄ²
+J
+java:S1068"4Remove this unused "engineEfficiency" private field.(¾ñ°
+J
+java:S1068"5Remove this unused "engineTemperature" private field.(íù¶
+R
+java:S1068"7Remove this unused "coolingSystemStatus" private field.(·”¦Äùÿÿÿÿ
+G
+java:S1068"1Remove this unused "cargoCapacity" private field.(éµ©‹
+O
+java:S1068"4Remove this unused "currentCargoLoad" private field.(‚àıÿÿÿÿ
+H
+java:S1068"-Remove this unused "cargoType" private field.(ÆÔõáùÿÿÿÿ
+D
+java:S1068"/Remove this unused "isCargoFull" private field.(²ç¸c
+K
+java:S1068"0Remove this unused "isCargoEmpty" private field.(È¸îüÿÿÿÿ
+F
+java:S1068"0Remove this unused "crewCapacity" private field.(Ò†…ƒ
+E
+java:S1068"/Remove this unused "crewMembers" private field.(“¦â 
+G
+java:S1068"1Remove this unused "isCrewOnboard" private field.(ñ—¾Á
+M
+java:S1068 "2Remove this unused "isCrewAssigned" private field.(ì‘è®ÿÿÿÿÿ
+L
+java:S1068""6Remove this unused "ambientTemperature" private field.(ÕÆ„
+N
+java:S1068#"3Remove this unused "ambientHumidity" private field.(¹ú·¡úÿÿÿÿ
+C
+java:S1068$"-Remove this unused "windSpeed" private field.(ƒ§…®
+O
+java:S1068%"4Remove this unused "currentCrewCount" private field.(„ê»şÿÿÿÿ
+L
+java:S1068&"1Remove this unused "windDirection" private field.(Ä·ùÏûÿÿÿÿ
+E
+java:S1068'"/Remove this unused "sandDensity" private field.(´„µ
