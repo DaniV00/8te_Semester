@@ -15,3 +15,7 @@ e
 5Blatt 4/src/main/java/oop/exercise2/TrainNetwork.java,4\f\4f244bddcba6da7911e5cc30aba746bb9910d852
 \
 ,Blatt 4/src/main/java/oop/util/Exercise.java,7\f\7f08131b125fe08b9b5f927a4d15d4f41c94a53f
+f
+6Blatt 4/src/main/java/oop/exercise2/JourneyResult.java,8\4\841495b31f7655aa00b5385a298f1c9c0ac5a19f
+s
+CBlatt 4/src/main/java/oop/exercise2/TrainNetworkSampleProvider.java,1\8\18344c84a13b21ffbe2edb350b08ce07fdbf6ce9

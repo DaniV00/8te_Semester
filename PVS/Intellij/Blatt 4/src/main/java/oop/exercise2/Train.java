@@ -1,12 +1,43 @@
 package oop.exercise2;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Train {
+    private final int maxCapacity;
+    private final List<SpiceTransportCertificate> cargoList;
 
-    private int maxCapacity;
-    private int currentSpice;
     private int fuel;
-    private ArrayList spiceCertificatList = new ArrayList<SpiceTransportCertificate>();
+
+    private int currentSpice;
+
+    public Train(int maxCapacity, List<SpiceTransportCertificate> cargoList, int spice, int fuel) {
+        this.maxCapacity = maxCapacity;
+        this.cargoList = cargoList;
+        this.currentSpice = spice;
+        this.fuel = fuel;
+    }
+
+    public int getMaxCapacity() {
+        return maxCapacity;
+    }
+
+    public List<SpiceTransportCertificate> getCargoList() {
+        return cargoList;
+    }
+
+    public int getFuel() {
+        return fuel;
+    }
+
+    public void setFuel(int fuel) {
+        this.fuel = fuel;
+    }
+
+    public int getCurrentSpice() {
+        return currentSpice;
+    }
+
+    public void setCurrentSpice(int currentSpice) {
+        this.currentSpice = currentSpice;
+    }
 }
