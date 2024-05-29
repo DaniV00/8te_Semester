@@ -1,21 +1,19 @@
 
-g
-7Blatt 4/src/main/java/oop/exercise2/SpiceHarvester.java,b\a\baf267f4c71f64690373ac10a4b24f00d12f4c91
-r
-BBlatt 4/src/main/java/oop/exercise2/SpiceTransportCertificate.java,3\1\319069f82e7072a934a9a7fd5c27ecb9918bc64c
-`
-0Blatt 4/gradle/wrapper/gradle-wrapper.properties,2\a\2a208bb8cf71c8a6535773d2a4b7b974de2f9f5e
-O
-Blatt 4/src/main/java/Main.java,b\4\b4f868b9e07603ffb10a2b0f3ec63acf958aa721
-`
-0Blatt 4/src/main/java/oop/exercise2/Station.java,c\d\cd25f38ebd21ab91e458d978f238db93b1cff8f3
-^
-.Blatt 4/src/main/java/oop/exercise2/Train.java,d\d\dd14fbac8d492afd62ef9e69591a998e312e0823
-e
-5Blatt 4/src/main/java/oop/exercise2/TrainNetwork.java,4\f\4f244bddcba6da7911e5cc30aba746bb9910d852
-\
-,Blatt 4/src/main/java/oop/util/Exercise.java,7\f\7f08131b125fe08b9b5f927a4d15d4f41c94a53f
-f
-6Blatt 4/src/main/java/oop/exercise2/JourneyResult.java,8\4\841495b31f7655aa00b5385a298f1c9c0ac5a19f
-s
-CBlatt 4/src/main/java/oop/exercise2/TrainNetworkSampleProvider.java,1\8\18344c84a13b21ffbe2edb350b08ce07fdbf6ce9
+b
+2Blatt5/sheet-5/src/main/java/exercise1/Animal.java,b\a\bac4558648b4f0944648e13dcb35084149852360
+V
+&Blatt5/sheet-5/src/main/java/Main.java,7\4\749f1e1b3e53f54558d80de3375306faa6a554df
+D
+Blatt5/src/Main.java,7\2\72097b0b3a534b4ba1321ba4b306b4d54dce8ad8
+Z
+*Blatt5/src/main/java/exercise1/Animal.java,f\1\f19a62ff0f107d567883759007ae4c234937748c
+N
+Blatt5/src/main/java/Main.java,a\c\ace2b2ccce4c7df1d10d928932eeda6c3732d500
+b
+2Blatt5/src/main/java/exercise3/ExpressionNode.java,b\f\bf56a1ab40b27bfa210ef3ec8cc01d70f1e2bc95
+W
+'Blatt5/src/main/java/exercise1/Dog.java,8\d\8da2dd8955bcbf40e3b74b428a846a9a1470bdc5
+W
+'Blatt5/src/main/java/exercise1/Cat.java,e\7\e7abdfc37c02b0ae0a1e4d0ca3ca5ed808d55984
+[
++Blatt5/src/main/java/exercise1/Penguin.java,8\b\8bd4e04dbf944afa4709f64e821d4a13d363ce71
