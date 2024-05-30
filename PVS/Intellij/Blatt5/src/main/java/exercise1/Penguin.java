@@ -3,10 +3,12 @@ package main.java.exercise1;
 public class Penguin extends Animal{
 
     int cute = 0;
+
     public Penguin(String name, int age, int cuteness) {
         super(name, age);
         cute = cuteness;
     }
+
 
 
 

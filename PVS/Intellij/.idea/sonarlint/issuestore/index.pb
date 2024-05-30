@@ -17,3 +17,15 @@ W
 'Blatt5/src/main/java/exercise1/Cat.java,e\7\e7abdfc37c02b0ae0a1e4d0ca3ca5ed808d55984
 [
 +Blatt5/src/main/java/exercise1/Penguin.java,8\b\8bd4e04dbf944afa4709f64e821d4a13d363ce71
+R
+"Blatt5/src/main/java/Calendar.java,e\4\e498ab88020d22a0b68f98616e43556e1b1e05f2
+W
+'Blatt5/src/main/java/oop/util/Date.java,e\b\eb859e53a338513d4b60fde86a74e57ff5eab535
+]
+-Blatt5/src/main/java/exercise3/ValueNode.java,b\e\be1c3a223758d4ec0e5c173ad73ca84dd2ac34d5
+`
+0Blatt5/src/main/java/exercise3/AdditionNode.java,9\b\9b98e7fa6955ba19209a6a93c9d0a6771f120b15
+f
+6Blatt5/src/main/java/exercise3/MultiplicationNode.java,5\5\55ebad313ee09d17f987b7ecb2ee8110467e216e
+f
+6Blatt5/src/main/java/exercise3/BinaryOperatorNode.java,c\a\caac917a6a9f024ebbb5bb3526cff9671c436129
