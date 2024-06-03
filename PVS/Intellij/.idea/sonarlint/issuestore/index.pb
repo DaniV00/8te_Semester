@@ -29,3 +29,19 @@ f
 6Blatt5/src/main/java/exercise3/MultiplicationNode.java,5\5\55ebad313ee09d17f987b7ecb2ee8110467e216e
 f
 6Blatt5/src/main/java/exercise3/BinaryOperatorNode.java,c\a\caac917a6a9f024ebbb5bb3526cff9671c436129
+F
+Blatt__6/src/Main.java,5\7\57a606521c43651fd033c315af82873ddf89f309
+i
+9Blatt__6/Blatt 6/gradle/wrapper/gradle-wrapper.properties,3\e\3e9f6581c892e51ee4b6e45e398114ddb2f0d61a
+X
+(Blatt__6/Blatt 6/src/main/java/Main.java,4\4\44f57c9f3e2200e7a2b88989b48d7d2c405f5a51
+d
+4Blatt__6/Blatt 6/src/main/java/exercise2/Course.java,8\9\899ea6ceb9a611e08d7288a46e1402a1ea763ed7
+L
+Blatt__6/main/java/Main.java,c\1\c16c2f2a0230cf9bc4c42d5cc3d17a87f0a1efc7
+P
+ Blatt__6/src/main/java/Main.java,3\6\36cd666deca9286df9851645dc5fac97acd299f5
+\
+,Blatt__6/src/main/java/exercise2/Course.java,c\c\cc511a2bc7f5beab8d41a845bdc8b9416aec52cd
+]
+-Blatt__6/src/main/java/exercise2/Student.java,a\e\aeb73f476957f77d8a82beced99bc3918f1c2eab
