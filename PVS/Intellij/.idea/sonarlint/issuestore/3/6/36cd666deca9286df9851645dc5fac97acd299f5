@@ -1,2 +1,7 @@
 
-k	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿJ$76f2d66a-6a5f-4985-9bef-04dd385c859b
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÞÖÍÿÿÿÿÿ8ššîîý1J$b02dbdc1-9778-435c-9845-28105f8a7277
+}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8Ãšîîý1J$e42641ec-2aeb-4ac1-b8ec-b7b07444ae6d
+r	java:S106"+Replace this use of System.out by a logger.(ù¹²øÿÿÿÿ8®øÁïý1J$12123726-efb8-4c6a-8a17-4984a30c6549
+m	java:S106"+Replace this use of System.out by a logger.(Äõë8åÐøïý1J$87a00aff-bde5-45ce-898a-a49d2efe9f1c
+r	java:S106"+Replace this use of System.out by a logger.(¹¿ ûÿÿÿÿ8ÈÏ‹ðý1J$ee60083d-238d-480a-823a-df9f3c183c31
+m	java:S106"+Replace this use of System.out by a logger.(ÝþÏè8é”ðý1J$5aa87c14-8ca5-417c-9b43-fad8276e4e8b
