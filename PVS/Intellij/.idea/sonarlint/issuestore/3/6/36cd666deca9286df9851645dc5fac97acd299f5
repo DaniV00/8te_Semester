@@ -1,7 +1,8 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŞÖÍÿÿÿÿÿ8ššîîı1J$b02dbdc1-9778-435c-9845-28105f8a7277
-}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8Ãšîîı1J$e42641ec-2aeb-4ac1-b8ec-b7b07444ae6d
-r	java:S106"+Replace this use of System.out by a logger.(ù¹²øÿÿÿÿ8®øÁïı1J$12123726-efb8-4c6a-8a17-4984a30c6549
-m	java:S106"+Replace this use of System.out by a logger.(Äõë8åĞøïı1J$87a00aff-bde5-45ce-898a-a49d2efe9f1c
-r	java:S106"+Replace this use of System.out by a logger.(¹¿ ûÿÿÿÿ8ÈÏ‹ğı1J$ee60083d-238d-480a-823a-df9f3c183c31
-m	java:S106"+Replace this use of System.out by a logger.(İşÏè8é”ğı1J$5aa87c14-8ca5-417c-9b43-fad8276e4e8b
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŞÖÍÿÿÿÿÿ8è›óı1J$e90db8a4-9cb8-4659-8b52-6851be0b4e42
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò§¸ˆ8è›óı1J$e3c91514-aa3b-419a-bbcf-5fe177a3959d
+}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8ë“›óı1J$46dcf064-7d2d-4557-90a8-761243311c94
+m	java:S106"+Replace this use of System.out by a logger.(‘¥Í8ë“›óı1J$73357bf7-7c89-4ed1-b078-005b0b571894
+X	java:S125"<This block of commented-out lines of code should be removed.(¸îò8¢ñóı1
+m	java:S106"+Replace this use of System.out by a logger.(å½¤„8¢í¯óı1J$6c7aec3f-49db-4cde-baf3-f985d2166d89

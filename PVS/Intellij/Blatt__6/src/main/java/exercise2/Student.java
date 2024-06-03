@@ -5,30 +5,33 @@ import java.util.HashMap;
 public class Student {
     private final String id;
     private final String name;
-    private HashMap <String, Course> hashCourse = new HashMap<>();
+    //Course course = new Course();
 
     public Student(String id, String name, int age) {
+        //super(id,name);
+        this.name=name;
         this.id = id;
-        this.name = name;
     }
 
     public String enrollCourse(Course course){
-        hashCourse.put(this.id,course);
+        course.hashCourse.put(this.id,course);
         String currentcourse = ""+ course.getCourseName();
 
         return "The student with id " + this.id + " and name "+ this.name + " has been enrolled into the course " + currentcourse ;
     }
 
-    public boolean isEnrolled(){
-        return hashCourse.containsKey(this.id);
+    public boolean isEnrolled(Course course){
 
+        return course.hashCourse.containsKey(id);
     }
 
-    public String leaveCourse(Course course){
-        hashCourse.remove(this.id,course);
-        String currentcourse = "" + course.getCourseName();
+    public void leaveCourse(Course course){
+        course.hashCourse.remove(id);
+        //String currentcourse = "" + course.getCourseName();
+        System.out.println("The student with id " + this.id + " and name "+ this.name + " has left the course " + course.hashCourse.get(id) );
 
-        return "The student with id " + this.id + " and name "+ this.name + " has left the course " + currentcourse ;
+
+        //return ;
     }
 
 
