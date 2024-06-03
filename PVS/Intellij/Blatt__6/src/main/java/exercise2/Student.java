@@ -26,15 +26,14 @@ public class Student {
     }
 
     public void leaveCourse(Course course){
+        String courseTemp = course.getCourseName();
         course.hashCourse.remove(id);
         //String currentcourse = "" + course.getCourseName();
-        System.out.println("The student with id " + this.id + " and name "+ this.name + " has left the course " + course.hashCourse.get(id) );
+        System.out.println("The student with id " + this.id + " and name "+ this.name + " has left the course " + courseTemp);
 
 
         //return ;
     }
-
-
 
     public String getId() {
         return id;
