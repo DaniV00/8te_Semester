@@ -1,6 +1,7 @@
 package main.java.exercise4;
 
 import java.time.LocalDateTime;
+import java.util.HashMap;
 import java.util.List;
 
 public class Flight {
@@ -9,6 +10,7 @@ public class Flight {
     private final String destination;
     private final LocalDateTime departureTime;
     private final LocalDateTime arrivalTime;
+    public FlightSchedule sched = new FlightSchedule();
 
 
     public Flight(String flightNumber, String origin, String destination, LocalDateTime departureTime, LocalDateTime arrivalTime) {

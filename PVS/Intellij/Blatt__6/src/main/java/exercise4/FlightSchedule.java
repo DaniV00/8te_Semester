@@ -11,7 +11,7 @@ public class FlightSchedule {
     HashMap<String,Flight> flightsHash = new HashMap<>();
     Flight flight;
     int reserveID = 0;
-    HashMap<Reservation,Passenger> reservePass = new HashMap<>();
+    public HashMap<Reservation,Passenger> reservePass = new HashMap<>();
 
 
     public void addFlight(Flight flight) {
@@ -29,7 +29,6 @@ public class FlightSchedule {
         String stringResID = String.valueOf(reserveID);
         Reservation reserve = new Reservation(stringResID,flightNumber, passenger.getPassengerId(), LocalDateTime.now());
         reservePass.put(reserve,passenger);
-        System.out.println(stringResID);
         System.out.println(reservePass);
         reserveID = reserveID +1;
 
