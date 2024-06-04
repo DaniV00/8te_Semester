@@ -1,8 +1,14 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŞÖÍÿÿÿÿÿ8è›óı1J$e90db8a4-9cb8-4659-8b52-6851be0b4e42
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŞÖÍÿÿÿÿÿ8­¶Ïœş1J$27f67edd-3cec-4177-bd5a-56a3ac7f5a94
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğĞ„ıÿÿÿÿ8­¶Ïœş1J$da92cd31-ab05-416e-9039-cbd6db2c3858
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò§¸ˆ8è›óı1J$e3c91514-aa3b-419a-bbcf-5fe177a3959d
-}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8ë“›óı1J$46dcf064-7d2d-4557-90a8-761243311c94
-m	java:S106"+Replace this use of System.out by a logger.(‘¥Í8ë“›óı1J$73357bf7-7c89-4ed1-b078-005b0b571894
-X	java:S125"<This block of commented-out lines of code should be removed.(¸îò8¢ñóı1
-m	java:S106"+Replace this use of System.out by a logger.(å½¤„8¢í¯óı1J$6c7aec3f-49db-4cde-baf3-f985d2166d89
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ü·ê8­¶Ïœş1J$c09f68ab-2281-493c-909c-3dda6f65d05a
+Ä
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı¥Ë¬8íÚÏœş1J$78b96af1-ed1a-4a56-ad63-bb0abc2d76a0
+}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8íÚÏœş1J$32764132-6e44-4c0a-900c-7186f159b993
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(À‡©íıÿÿÿÿ8Æáœş1J$4f6c6558-0280-4676-8f61-713916a38120
+~	java:S125 "<This block of commented-out lines of code should be removed.(×êòŸ8÷ÚÏœş1J$a7a77ed8-df45-4d96-bc11-8f91b6a51a10
+u
+java:S1135%"2Complete the task associated to this TODO comment.( ¿³Ÿ8÷ÚÏœş1J$3c6730f4-09ba-4662-8676-46d952ccbb2e
+]	java:S1251"<This block of commented-out lines of code should be removed.(ÀçÇ«ûÿÿÿÿ8­¾ïœş1

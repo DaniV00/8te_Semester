@@ -1,9 +1,13 @@
 package main.java;
 
 import main.java.exercise2.*;
+import main.java.exercise4.Flight;
+import main.java.exercise4.FlightSchedule;
+import main.java.exercise4.Passenger;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.time.*;
 //import main.java.exercise2.Student;
 
 public class Main {
@@ -23,11 +27,44 @@ public class Main {
         studentsOfJava.add(oscar);
         PvS.addToStudents(studentsOfPvS);
         java.addToStudents(studentsOfPvS);
-        ram.leaveCourse(PvS);
+       // ram.leaveCourse(PvS);
 
-        //System.out.println(ram.enrollCourse(PvS));
+       // System.out.println(String.valueOf(3));
 
-        System.out.println(ram.isEnrolled(PvS));   //Ram is NOT enrolled on PvS, because he got added on the list studentOfPvS BUT got removed with the ".leavecourse(Course)" method
+       // System.out.println(ram.isEnrolled(PvS));   //Ram is NOT enrolled on PvS, because he got added on the list studentOfPvS BUT got removed with the ".leavecourse(Course)" method
+
+
+        //TODO TEST FLIGHT DATA
+        Passenger daniele = new Passenger("1","dani","dani@mail.com");
+        Passenger ramm = new Passenger("2","ram","aram@mail.com");
+        LocalDateTime departure = LocalDateTime.of(2021,1,1,5,0);
+        LocalDateTime arrival = LocalDateTime.of(2021,1,3,10,0);
+        FlightSchedule sched = new FlightSchedule();
+        Flight bahamas = new Flight("1","Frankfurt","Bahamas",departure,arrival);
+        sched.makeReservation("1",daniele);
+        sched.makeReservation("1",ramm);
+        bahamas.boardFlight(daniele);
+
+
+        //System.out.println(bahamas.boardFlight(daniele));
+
+
+
+
+
+
+
+
+    }
+
+    public void example(List<Integer> integerList){
+
+
+
+    }
+
+    public void example(List<Integer> integerList,List<String> stringList){     //Initial method does not override, because the lists "integerList" and "stringList" have two different data types
+                                                                                //NOTE: To override a method, the same data type should be used, in this case, a List of Integers
 
 
     }

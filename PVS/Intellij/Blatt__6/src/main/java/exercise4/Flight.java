@@ -10,6 +10,7 @@ public class Flight {
     private final LocalDateTime departureTime;
     private final LocalDateTime arrivalTime;
 
+
     public Flight(String flightNumber, String origin, String destination, LocalDateTime departureTime, LocalDateTime arrivalTime) {
         this.flightNumber = flightNumber;
         this.origin = origin;
@@ -19,8 +20,19 @@ public class Flight {
     }
 
     public boolean boardFlight(Passenger passenger) {
-        // TODO in exercise b
-        return false;
+        FlightSchedule sched = new FlightSchedule();
+        boolean canBoard;
+        if(sched.reservePass.containsValue(passenger)) {
+             canBoard = true;
+        }
+        else {
+
+             canBoard = false;
+        }
+        System.out.println(sched.reservePass);
+
+        System.out.println(canBoard);
+        return canBoard;
     }
 
     public List<Passenger> getMissingPassengers() {

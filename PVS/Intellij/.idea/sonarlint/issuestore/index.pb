@@ -37,3 +37,11 @@ P
 ,Blatt__6/src/main/java/exercise2/Course.java,c\c\cc511a2bc7f5beab8d41a845bdc8b9416aec52cd
 ]
 -Blatt__6/src/main/java/exercise2/Student.java,a\e\aeb73f476957f77d8a82beced99bc3918f1c2eab
+\
+,Blatt__6/src/main/java/exercise4/Flight.java,4\f\4fb1ae71c50778c1eead994ad2ec7f6ffabbc7a9
+d
+4Blatt__6/src/main/java/exercise4/FlightSchedule.java,9\1\917c549b7a24219b322944a03d6156d37bbc1903
+_
+/Blatt__6/src/main/java/exercise4/Passenger.java,a\7\a741049eebf34ff07e37fe46b930f8ac09475dfb
+a
+1Blatt__6/src/main/java/exercise4/Reservation.java,8\5\85a7be1397707c284dc5d1b6875a4fd53643f439
