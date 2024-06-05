@@ -1,13 +1,11 @@
 
-”
-java:S1104"QMake sched a static final constant or non-public and provide accessors if needed.(ºì‹¾8®şŸş1J$ec4b226f-83c6-4349-98cc-2a2b2cff3336
-
-java:S1117"9Rename "sched" which hides the field declared at line 13.(ãøÔ”ùÿÿÿÿ8í‘¡ş1J$b6b3d92b-dccc-46c6-8d6b-5f5bc6efdae0
-r	java:S106""+Replace this use of System.out by a logger.(ÓİÂƒşÿÿÿÿ8ñ‘¡ş1J$72562fba-7f93-4efe-9be9-9ed3518bad73
-m	java:S106$"+Replace this use of System.out by a logger.(Íüğ8ÓÇ¤ş1J$3b3fafab-5d1a-473b-af5f-6437fff6280c
-n
-java:S1168*"+Return an empty collection instead of null.(¥¹ï8ñ‘¡ş1J$6eca14b4-c06f-450f-821f-cb6735ff764c
-u
-java:S1135)"2Complete the task associated to this TODO comment.(‹»ï–8ñ‘¡ş1J$b7c95474-36b9-407d-ad56-91eb9e018f58
-P
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¡ ¨ş1
+t
+java:S1104"WMake boardedPass a static final constant or non-public and provide accessors if needed.(œ÷ÕŸ8«ÿ¹Èş1
+G	java:S106%"+Replace this use of System.out by a logger.(ƒ«®8Ÿ‘ºÈş1
+G	java:S106'"+Replace this use of System.out by a logger.(Íüğ8Ÿ‘ºÈş1
+g
+java:S1854,"ERemove this useless assignment to local variable "missingPassengers".(úª¸¸şÿÿÿÿ8 ‘ºÈş1
+X
+java:S1481,"6Remove this unused "missingPassengers" local variable.(úª¸¸şÿÿÿÿ8¡‘ºÈş1
+H
+java:S11686"+Return an empty collection instead of null.(¥¹ï8£‘ºÈş1

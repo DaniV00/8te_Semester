@@ -1,14 +1,14 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ŞÖÍÿÿÿÿÿ8­¶Ïœş1J$b55060b4-8add-4487-b539-4e68595f3a01
-¡
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğĞ„ıÿÿÿÿ8­¶Ïœş1J$923ae7e1-732a-4262-b7fc-70b6ac66805d
-œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ü·ê8­¶Ïœş1J$aa382603-0489-42ca-981b-b7ef9d40da43
 Ä
-java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı¥Ë¬8íÚÏœş1J$c3cf3659-1d1f-4192-b9d8-c4a1479e2261
-}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8íÚÏœş1J$a7a0fe64-e306-4fc1-bb03-c42a30271b49
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(À‡©íıÿÿÿÿ8Æáœş1J$fa1bc7c3-be56-4d50-a1de-9890f5818ca8
-~	java:S125 "<This block of commented-out lines of code should be removed.(×êòŸ8÷ÚÏœş1J$a5e4d43a-1628-4e69-9cb6-7fab9921790a
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı¥Ë¬8íÚÏœş1J$b5091b08-c973-4a03-9aac-909714de06fa
+}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8íÚÏœş1J$8c405c9c-3821-4ad6-be46-3df276bb05aa
+~	java:S125"<This block of commented-out lines of code should be removed.(¢ËÛ™8œşçÇş1J$d6394376-bd18-41d6-8f8e-4221afcb180e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(À‡©íıÿÿÿÿ8Æáœş1J$a29f3b2b-e1f5-4d3c-96b7-7a3f31f20dd0
+~	java:S125 "<This block of commented-out lines of code should be removed.(×êòŸ8÷ÚÏœş1J$93bc7e21-73cc-4769-b91c-173d898d28b8
 u
-java:S1135%"2Complete the task associated to this TODO comment.( ¿³Ÿ8÷ÚÏœş1J$2dd3da4f-124f-49ec-bf95-75d04eae2999
-ƒ	java:S1251"<This block of commented-out lines of code should be removed.(ÀçÇ«ûÿÿÿÿ8­¾ïœş1J$5bcfa3a6-7c89-4d9d-aa88-4dbf9834e449
+java:S1135%"2Complete the task associated to this TODO comment.( ¿³Ÿ8÷ÚÏœş1J$3c54700d-79f1-43c5-9ce2-4c08ee008a77
+ƒ	java:S1252"<This block of commented-out lines of code should be removed.(ÀçÇ«ûÿÿÿÿ8­¾ïœş1J$8d01ff23-85e0-4f50-aa0f-8de7b522b91c
+x
+java:S1128"0Remove this unused import 'main.java.exercise2'.(á‰İ´ûÿÿÿÿ8œşçÇş1J$4ea60afe-9504-4744-be47-116ffc954c9b
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ŸşçÇş1J$0a87a504-97aa-448d-84fd-73475d057920

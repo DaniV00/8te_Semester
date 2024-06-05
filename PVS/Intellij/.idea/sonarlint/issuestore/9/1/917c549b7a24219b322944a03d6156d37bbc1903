@@ -1,30 +1,44 @@
 
 y
-java:S1104"WMake reservePass a static final constant or non-public and provide accessors if needed.(Å Ó•øÿÿÿÿ8µÂ›ş1
-Š
-java:S1319"hThe type of "reservePass" should be an interface such as "Map" rather than the implementation "HashMap".(Å Ó•øÿÿÿÿ8µÂ›ş1
+java:S1104"WMake flightsHash a static final constant or non-public and provide accessors if needed.(ô°­³ÿÿÿÿÿ8ûÌíÇş1
+š
+java:S1104"WMake reservePass a static final constant or non-public and provide accessors if needed.(ÈÏ…8«ª¹Çş1J$4236797c-ee51-4c59-a250-90a57900f9bd
+°
+java:S1319"hThe type of "flightsHash" should be an interface such as "Map" rather than the implementation "HashMap".(ô°­³ÿÿÿÿÿ8«ª¹Çş1J$a0f9e5ec-6d01-4731-8c0f-1253841c4b66
+…
+java:S1319"hThe type of "reservePass" should be an interface such as "Map" rather than the implementation "HashMap".(ÈÏ…8„ÍíÇş1
 ¥
-java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "flightTemp".(ßÎì8¾ë·œş1J$8e9f0e07-174e-4e96-93dc-a9dc107d4e65
-m	java:S106 "+Replace this use of System.out by a logger.(ƒ«®8×ÚÜœş1J$4afaf70d-e64d-49ea-98e7-ea9e30ad5620
-g
-java:S1168*"$Return an empty map instead of null.(¥¹ï8¬ı·œş1J$f846c42d-1127-4b32-8a3c-3770b13caf70
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "flightTemp".(ßÎì8«ª¹Çş1J$0430cb8c-a8c3-4ea8-a04e-8eae575d7b2f
+S
+java:S1444"1Make this "public static flightsHash" field final(ô°­³ÿÿÿÿÿ8†ÍíÇş1
+t
+java:S1444"1Make this "public static reservePass" field final(ÈÏ…8¨àÇş1J$c3829870-320c-4ab1-81a9-371a2611ffc5
+?
+java:S2386"Make this member "protected".(ô°­³ÿÿÿÿÿ8ŒàíÇş1
+`
+java:S2386"Make this member "protected".(ÈÏ…8¾ÌàÇş1J$cc37b72d-c7fd-4f75-94e7-c8329580c80b
 u
-java:S1135)"2Complete the task associated to this TODO comment.(ƒÑ8¬ı·œş1J$1b97b5a4-2c15-4a38-9a18-32861859d82e
+java:S1135"2Complete the task associated to this TODO comment.(‚›Å8…öâÇş1J$8a2af6ee-5b7e-4722-a72f-8e1f64253e45
+m	java:S106!"+Replace this use of System.out by a logger.(ƒ«®8¸Î¹Çş1J$593f9d8e-f23f-4485-923e-5c93eda2ac64
+g
+java:S1168*"$Return an empty map instead of null.(¥¹ï8ºÎ¹Çş1J$a3df73fb-e5d4-469d-946c-cdbd77a02d78
+u
+java:S1135)"2Complete the task associated to this TODO comment.(ƒÑ8ºÎ¹Çş1J$94021299-1191-46fd-8a99-a564c6732f12
 {
-java:S3400/"9Remove this method and declare a constant for this value.(¸®Ã'8¬ı·œş1J$13997023-4af6-4494-9711-2adafcb20439
+java:S3400/"9Remove this method and declare a constant for this value.(¸®Ã'8ºÎ¹Çş1J$7fbda95e-c9b9-449b-9112-3d0678345068
 s
-java:S1172-"+Remove this unused method parameter "rout".(Ğì­şÿÿÿÿ8¬ı·œş1J$f0dd618c-0c00-4aa1-ac9b-431ac16554c3
+java:S1172-"+Remove this unused method parameter "rout".(Ğì­şÿÿÿÿ8¾Î¹Çş1J$fdd4e2c6-7c51-415c-b87d-3566b432e6c9
 u
-java:S1135."2Complete the task associated to this TODO comment.(ŒÓÿ–8¬ı·œş1J$271ab7a2-5965-4dd2-a994-5c34b46a27bb
+java:S1135."2Complete the task associated to this TODO comment.(ŒÓÿ–8¾Î¹Çş1J$504a9dc3-02b6-4e8c-9931-33e762167df1
 g
-java:S11684"$Return an empty map instead of null.(¥¹ï8¬ı·œş1J$482802ec-1172-4879-9590-8c77fa414766
+java:S11684"$Return an empty map instead of null.(¥¹ï8ÂÎ¹Çş1J$e1235bfe-73b6-4ed7-a57a-9f44aab32ed0
 u
-java:S11353"2Complete the task associated to this TODO comment.(™—ùê8¬ı·œş1J$019c9a0f-671b-4f34-9cf4-6529233b5164
+java:S11353"2Complete the task associated to this TODO comment.(™—ùê8ÂÎ¹Çş1J$b0c39b2b-6c7a-4619-84ff-26a90824ca22
 g
-java:S11689"$Return an empty map instead of null.(¥¹ï8­ÚÕœş1J$e2d23ff7-9516-4eba-97cf-2cc3410b566a
+java:S11689"$Return an empty map instead of null.(¥¹ï8ÂÎ¹Çş1J$f9ba6724-eaa5-4bb8-b165-1bd29d4f34f2
 u
-java:S11358"2Complete the task associated to this TODO comment.(Å»¥‚8¬ı·œş1J$ce2a74e9-5257-435e-900f-331114f108c4
+java:S11358"2Complete the task associated to this TODO comment.(Å»¥‚8ÂÎ¹Çş1J$36e549e7-09a4-4410-9c23-47d67d61cba1
 g
-java:S1168>"$Return an empty map instead of null.(¥¹ï8­ÚÕœş1J$56a1b73a-66eb-40ec-8a99-8b3d8d611615
+java:S1168>"$Return an empty map instead of null.(¥¹ï8ÆÎ¹Çş1J$a3b12725-ab88-4f1a-897a-9212e6d6d398
 u
-java:S1135="2Complete the task associated to this TODO comment.(°ıÃ¢8¬ı·œş1J$da5cb8c9-2bf7-44ba-aa5a-eb4880a0201d
+java:S1135="2Complete the task associated to this TODO comment.(°ıÃ¢8ÆÎ¹Çş1J$05a20762-5641-4cc8-b91a-a5e99a15cdd7

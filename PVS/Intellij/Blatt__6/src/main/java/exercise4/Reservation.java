@@ -1,6 +1,7 @@
 package main.java.exercise4;
 
 import java.time.LocalDateTime;
+import java.util.List;
 
 public class Reservation {
     private final String reservationId;

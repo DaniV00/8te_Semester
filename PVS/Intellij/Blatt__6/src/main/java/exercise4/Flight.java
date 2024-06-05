@@ -1,16 +1,19 @@
 package main.java.exercise4;
 
 import java.time.LocalDateTime;
+import java.util.AbstractList;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class Flight {
+public class Flight extends FlightSchedule {
     private final String flightNumber;
     private final String origin;
     private final String destination;
     private final LocalDateTime departureTime;
     private final LocalDateTime arrivalTime;
-    public FlightSchedule sched = new FlightSchedule();
+    public List<Passenger> boardedPass = new ArrayList<>();
+
 
 
     public Flight(String flightNumber, String origin, String destination, LocalDateTime departureTime, LocalDateTime arrivalTime) {
@@ -22,23 +25,32 @@ public class Flight {
     }
 
     public boolean boardFlight(Passenger passenger) {
-        FlightSchedule sched = new FlightSchedule();
         boolean canBoard;
-        if(sched.reservePass.containsValue(passenger)) {
+        if(reservePass.containsValue(passenger)) {
+            boardedPass.add(passenger);
              canBoard = true;
         }
         else {
 
              canBoard = false;
         }
-        System.out.println(sched.reservePass);
+        System.out.println(reservePass);
 
         System.out.println(canBoard);
         return canBoard;
     }
 
     public List<Passenger> getMissingPassengers() {
-        // TODO in exercise c
+        List<Passenger> missingPassengers = new ArrayList<>();
+
+        for(int i = 0; i < reservePass.size(); i++){
+            reservePass.forEach((reservation, passenger) ->
+                    pa
+
+                    );
+        }
+
+
         return null;
     }
 

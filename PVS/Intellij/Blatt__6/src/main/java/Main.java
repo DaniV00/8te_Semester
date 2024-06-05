@@ -14,7 +14,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Student dani = new Student("1","Dani",24);
+        /*Student dani = new Student("1","Dani",24);
         Student ram = new Student("2","Ram",25);
         Student oscar = new Student("3","Oscar",26);
         Course PvS = new Course("01","PvS");
@@ -26,7 +26,7 @@ public class Main {
         studentsOfPvS.add(oscar);
         studentsOfJava.add(oscar);
         PvS.addToStudents(studentsOfPvS);
-        java.addToStudents(studentsOfPvS);
+        java.addToStudents(studentsOfPvS);*/
        // ram.leaveCourse(PvS);
 
        // System.out.println(String.valueOf(3));
@@ -41,6 +41,7 @@ public class Main {
         LocalDateTime arrival = LocalDateTime.of(2021,1,3,10,0);
         FlightSchedule sched = new FlightSchedule();
         Flight bahamas = new Flight("1","Frankfurt","Bahamas",departure,arrival);
+        sched.addFlight(bahamas);
         sched.makeReservation("1",daniele);
         sched.makeReservation("1",ramm);
         bahamas.boardFlight(daniele);

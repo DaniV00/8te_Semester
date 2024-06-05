@@ -8,10 +8,11 @@ import java.util.Map;
 
 public class FlightSchedule {
 
-    HashMap<String,Flight> flightsHash = new HashMap<>();
+    public static HashMap<String,Flight> flightsHash = new HashMap<>();
     Flight flight;
     int reserveID = 0;
-    public HashMap<Reservation,Passenger> reservePass = new HashMap<>();
+    public static HashMap<Reservation,Passenger> reservePass = new HashMap<>();
+    //TODO: REMEMBER THAT THE FUKKN STATIC VALUE ALLOWS THE HASHMAP(OR VARIABLE) TO RETAIN VALUE AMONG CLASSES
 
 
     public void addFlight(Flight flight) {
@@ -31,7 +32,6 @@ public class FlightSchedule {
         reservePass.put(reserve,passenger);
         System.out.println(reservePass);
         reserveID = reserveID +1;
-
 
         return reserve;//
 
