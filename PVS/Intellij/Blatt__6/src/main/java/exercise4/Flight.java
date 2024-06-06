@@ -12,7 +12,7 @@ public class Flight extends FlightSchedule {
     private final String destination;
     private final LocalDateTime departureTime;
     private final LocalDateTime arrivalTime;
-    public List<Passenger> boardedPass = new ArrayList<>();
+    public static List<Passenger> boardedPass = new ArrayList<>();
 
 
 
@@ -25,15 +25,17 @@ public class Flight extends FlightSchedule {
     }
 
     public boolean boardFlight(Passenger passenger) {
-        boolean canBoard;
-        if(reservePass.containsValue(passenger)) {
-            boardedPass.add(passenger);
-             canBoard = true;
-        }
-        else {
+        boolean canBoard = false;
+        for(Reservation r : reservePass.keySet()){
+            if(reservePass.containsValue(passenger) && r.getFlightNumber().equals(flightNumber) && r.getPassengerId() == passenger.getPassengerId()) {
+                boardedPass.add(passenger);
+                canBoard = true;
+            }
+            else {
 
-             canBoard = false;
+            }
         }
+
         System.out.println(reservePass);
 
         System.out.println(canBoard);
@@ -42,16 +44,15 @@ public class Flight extends FlightSchedule {
 
     public List<Passenger> getMissingPassengers() {
         List<Passenger> missingPassengers = new ArrayList<>();
+        reservePass.forEach((reservation, passenger) ->{
+            if(!boardedPass.contains(passenger) && reservation.getFlightNumber().equals(flightNumber)){
+                missingPassengers.add(passenger);
+            }
+            else{
 
-        for(int i = 0; i < reservePass.size(); i++){
-            reservePass.forEach((reservation, passenger) ->
-                    pa
-
-                    );
-        }
-
-
-        return null;
+            }
+        });
+        return missingPassengers;
     }
 
     public String getFlightNumber() {

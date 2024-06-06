@@ -37,14 +37,19 @@ public class Main {
         //TODO TEST FLIGHT DATA
         Passenger daniele = new Passenger("1","dani","dani@mail.com");
         Passenger ramm = new Passenger("2","ram","aram@mail.com");
+        Passenger oscar = new Passenger("3","Oscar","oschi@mail.com");
         LocalDateTime departure = LocalDateTime.of(2021,1,1,5,0);
         LocalDateTime arrival = LocalDateTime.of(2021,1,3,10,0);
         FlightSchedule sched = new FlightSchedule();
         Flight bahamas = new Flight("1","Frankfurt","Bahamas",departure,arrival);
+        Flight london = new Flight("2","Frankfurt","London",departure,arrival);
         sched.addFlight(bahamas);
+        sched.addFlight(london);
         sched.makeReservation("1",daniele);
         sched.makeReservation("1",ramm);
+       // sched.makeReservation("2",oscar);
         bahamas.boardFlight(daniele);
+        System.out.println(bahamas.getMissingPassengers());
 
 
         //System.out.println(bahamas.boardFlight(daniele));
