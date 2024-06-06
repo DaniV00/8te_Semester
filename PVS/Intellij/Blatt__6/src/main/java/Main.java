@@ -49,7 +49,8 @@ public class Main {
         sched.makeReservation("1",ramm);
        // sched.makeReservation("2",oscar);
         bahamas.boardFlight(daniele);
-        System.out.println(bahamas.getMissingPassengers());
+    //    System.out.println(bahamas.getMissingPassengers());
+        System.out.println(sched.getPassengerRoutes());
 
 
         //System.out.println(bahamas.boardFlight(daniele));

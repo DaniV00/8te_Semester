@@ -1,11 +1,17 @@
 
 t
-java:S1104"WMake boardedPass a static final constant or non-public and provide accessors if needed.(œ÷ÕŸ8«ÿ¹Èş1
-G	java:S106%"+Replace this use of System.out by a logger.(ƒ«®8Ÿ‘ºÈş1
-G	java:S106'"+Replace this use of System.out by a logger.(Íüğ8Ÿ‘ºÈş1
-g
-java:S1854,"ERemove this useless assignment to local variable "missingPassengers".(úª¸¸şÿÿÿÿ8 ‘ºÈş1
-X
-java:S1481,"6Remove this unused "missingPassengers" local variable.(úª¸¸şÿÿÿÿ8¡‘ºÈş1
-H
-java:S11686"+Return an empty collection instead of null.(¥¹ï8£‘ºÈş1
+java:S1104"WMake boardedPass a static final constant or non-public and provide accessors if needed.( ­ñ8«ÿ¹Èş1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ëı”™úÿÿÿÿ8Ìşîş1
+N
+java:S1444"1Make this "public static boardedPass" field final( ­ñ8—Ìşîş1
+:
+java:S2386"Make this member "protected".( ­ñ8šÌşîş1
+E	java:S108"")Either remove or fill this block of code.(á¢–¬8šÌşîş1
+G	java:S106'"+Replace this use of System.out by a logger.(ƒ«®8Ÿ‘ºÈş1
+G	java:S106)"+Replace this use of System.out by a logger.(Íüğ8›Ìşîş1
+E	java:S1083")Either remove or fill this block of code.(á¢–¬8œÌşîş1
+U
+java:S1128"3Remove this unused import 'java.util.AbstractList'.(ËÃ€ÿÿÿÿÿ8Ìşîş1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ìşîş1

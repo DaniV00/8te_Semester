@@ -2,9 +2,11 @@ package main.java.exercise4;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class FlightSchedule {
 
@@ -38,8 +40,27 @@ public class FlightSchedule {
     }
 
     public Map<Passenger, List<Flight>> getPassengerRoutes() {
-        // TODO in exercise d
-        return null;
+
+        Map<Passenger, List<Flight>>  passroutes = new HashMap<>();
+        List<Flight> flightList = new ArrayList<>();
+        AtomicBoolean switcher = new AtomicBoolean(false);
+        reservePass.forEach(((reservation, passenger) -> {
+            flightsHash.forEach(((s, flight1) -> {
+                if(s.equals(reservation.getFlightNumber())){
+                    flightList.add(flight1);
+                    switcher.set(true);
+
+                }
+                else{
+                }
+            }));
+            passroutes.put(passenger,flightList);
+            switcher.set(false);
+
+        }));
+
+
+        return passroutes;
     }
 
     public static boolean validateRoute(List<Flight> rout) {
