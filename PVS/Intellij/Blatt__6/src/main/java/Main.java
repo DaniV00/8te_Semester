@@ -6,11 +6,24 @@ import main.java.exercise4.FlightSchedule;
 import main.java.exercise4.Passenger;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.time.*;
 //import main.java.exercise2.Student;
 
 public class Main {
+
+
+    public static int[][] transpose(int [][] matrix){
+        int[][] newmat = new int[matrix.length][matrix.length];
+        for(int i = 0; i < matrix.length; i++){
+            for(int j = 0; j < matrix.length; j++){
+                matrix[][]
+            }
+        }
+        System.out.println(Arrays.deepToString(newmat));
+        return newmat;
+    }
 
     public static void main(String[] args) {
 
@@ -51,6 +64,8 @@ public class Main {
         bahamas.boardFlight(daniele);
     //    System.out.println(bahamas.getMissingPassengers());
         System.out.println(sched.getPassengerRoutes());
+        int [][] mat = {{1,2,3},{4,5,6}};
+        transpose(mat);
 
 
         //System.out.println(bahamas.boardFlight(daniele));
