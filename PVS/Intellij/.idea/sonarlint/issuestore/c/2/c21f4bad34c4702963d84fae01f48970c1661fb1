@@ -1,2 +1,11 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8ˆÄÅå€2J$a1bc80c0-f7b4-4455-8109-06d906020f53
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÒ«Ç8¢Ð‰ç€2J$0bc22771-d87e-4ecd-8cc4-bd49bd18e9a4
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àË„ºûÿÿÿÿ8¢Ð‰ç€2J$8992a3a2-2a92-461d-a9b6-35331dda45f1
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(û†Ý¦8£Ð‰ç€2J$30935e48-fb40-48f7-a02b-36b81659432c
+r	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8½Ð‰ç€2J$fd9f5c37-d793-4144-91cb-7f49fc7e2f58
+~	java:S125"<This block of commented-out lines of code should be removed.(³±²¸8¾Ð‰ç€2J$7bf97677-2701-4e60-b98f-958bde4fad21
+r	java:S106"+Replace this use of System.out by a logger.(õ¡½¨úÿÿÿÿ8ÁÐ‰ç€2J$3e03211b-e51d-41ae-b096-75ebb395b618
+m	java:S106)"+Replace this use of System.out by a logger.(¨Æ¡…8‘õ‹ç€2J$0afe46aa-54d5-48b3-9fb6-75afbd2e0421

@@ -8,4 +8,9 @@ public interface Book {
     List<String> getContents();
     double getRating();
     boolean isAvailable();
+    default void rateBook(BookRater rater){
+
+        //rater.rate();
+
+    }
 }

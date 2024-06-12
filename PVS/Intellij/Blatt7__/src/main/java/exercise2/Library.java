@@ -12,6 +12,10 @@ public class Library {
         this.books = books;
     }
 
+    //public double applyRatings(BookRater rater)
+    //{return rater.rate();
+    //}
+
     public void addUser(LibraryUser user) {
         users.add(user);
     }
