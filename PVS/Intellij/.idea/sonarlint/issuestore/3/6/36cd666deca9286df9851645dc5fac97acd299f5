@@ -1,0 +1,22 @@
+
+Ä
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ý¥Ë¬8Ú×çÀ€2J$be59723d-aa20-485b-ba9b-1189c2c55680
+}	java:S125"<This block of commented-out lines of code should be removed.(³Í¤8ø×çÀ€2J$0c701072-0ca1-4f61-b07c-15181eb492d9
+|
+java:S1854*"9Remove this useless assignment to local variable "oscar".(øé•ß8ø×çÀ€2J$10d03d21-e52f-49d7-9be6-e39bcbae3f95
+~	java:S125"<This block of commented-out lines of code should be removed.(¢ËÛ™8‚ØçÀ€2J$0a400815-e59a-4df6-9e0f-9e477333387a
+ƒ	java:S125 "<This block of commented-out lines of code should be removed.(À‡©íýÿÿÿÿ8‚ØçÀ€2J$5f277808-0806-4930-81d8-6b7b461ccf4b
+~	java:S125""<This block of commented-out lines of code should be removed.(×êòŸ8¿ØçÀ€2J$25b3e601-6efc-45d8-8c6a-ef0655b4f885
+u
+java:S1135'"2Complete the task associated to this TODO comment.( ¿³Ÿ8¿ØçÀ€2J$02961f8b-36a8-457e-b2a3-fab2923f924a
+m
+java:S1481*"*Remove this unused "oscar" local variable.(øé•ß8¿ØçÀ€2J$33cbbd71-997a-469f-991d-e15abb33f8a8
+~	java:S1254"<This block of commented-out lines of code should be removed.(Š²–8¿ØçÀ€2J$0a8db76a-507c-472a-ba46-2657fb88d514
+m	java:S1067"+Replace this use of System.out by a logger.(•ÿ­Ú8ÇØçÀ€2J$3d6a94b2-c372-4b39-8375-7f0c212938e7
+~	java:S1256"<This block of commented-out lines of code should be removed.(§Í«8ÇØçÀ€2J$d1750996-fafc-4bb1-b381-55ef8c47c7ad
+L	java:S106="+Replace this use of System.out by a logger.(¦†š±úÿÿÿÿ8ÛÆèÀ€2
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(ÀçÇ«ûÿÿÿÿ8ÉØçÀ€2J$f1e48737-0711-4af5-be7d-e086ccc498dd
+x
+java:S1128"0Remove this unused import 'main.java.exercise2'.(á‰Ý´ûÿÿÿÿ8ÉØçÀ€2J$db87431f-da94-4072-b167-f6e697f816a3
+u
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÉØçÀ€2J$5b5563c5-ae8c-4682-a397-9dedffd2e499

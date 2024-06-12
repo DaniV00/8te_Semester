@@ -14,17 +14,6 @@ import java.time.*;
 public class Main {
 
 
-    public static int[][] transpose(int [][] matrix){
-        int[][] newmat = new int[matrix.length][matrix.length];
-        for(int i = 0; i < matrix.length; i++){
-            for(int j = 0; j < matrix.length; j++){
-                matrix[][]
-            }
-        }
-        System.out.println(Arrays.deepToString(newmat));
-        return newmat;
-    }
-
     public static void main(String[] args) {
 
         /*Student dani = new Student("1","Dani",24);
@@ -64,8 +53,12 @@ public class Main {
         bahamas.boardFlight(daniele);
     //    System.out.println(bahamas.getMissingPassengers());
         System.out.println(sched.getPassengerRoutes());
-        int [][] mat = {{1,2,3},{4,5,6}};
-        transpose(mat);
+
+        List<String> intlist = new ArrayList<>();
+        intlist.add("1");
+        intlist.add("2");
+
+        System.out.println(intlist.toString());
 
 
         //System.out.println(bahamas.boardFlight(daniele));
