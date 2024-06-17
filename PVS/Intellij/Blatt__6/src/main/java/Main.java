@@ -60,6 +60,11 @@ public class Main {
 
         System.out.println(intlist.toString());
 
+        Pair<String,Integer> hello = new Pair<>("hello",42);
+        var p = hello;
+        System.out.println(p.first);
+        var p2 =p;
+
 
         //System.out.println(bahamas.boardFlight(daniele));
 
