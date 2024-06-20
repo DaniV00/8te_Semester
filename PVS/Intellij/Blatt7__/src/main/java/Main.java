@@ -3,6 +3,7 @@ package main.java;
 import main.java.exercise3.ValuableItem;
 
 import java.util.ArrayList;
+import java.util.EmptyStackException;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -23,7 +24,6 @@ public class Main {
         strlist.add("ciao");
         strlist.add("come");
         strlist.add("stai");
-        strlist.add("bello");
         strlist.stream().forEach(System.out::print);                   //Concat Strings
 
         List<ValuableItem> valList = new ArrayList<ValuableItem>();
