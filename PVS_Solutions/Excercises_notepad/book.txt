@@ -68,8 +68,65 @@ JSON AUFGABE 3 BLATT 2021
 		"xmlns" : "http://....",
 		"groupId" : "de.uulm.sp.pvs",
 		"build" : {
-		"pluginManagement" :
-					
+		"pluginManagement" :{
+			"plugins" : [
+			{
+				"artifactId" : "maven-clean-...",
+				"version " :  "3.1.0"
+				},
+				{
+				"artifactId" : " maven-reports-plugin",
+				"version" : " 3.0.0"   							//CLOSING TAGS WEGLASSEN , OPENING BRACKETS AT BEGINNING
+																// PLUGINS HAVE SQUARE BRACKETS AND INSIDE CURVED BRACKETS 
+			}			
+			]
+		}
+	}
+	}
+}				
+
+
+JSON AUFGABE 3 BLATT 2021
+
+
+{
+	"project" : {
+		"xmlns" : "http://maven....",
+		"groupId" : "de.uulm.sp.pvs",
+		"build" : {
+			"pluginManagement" : {
+				"plugins" : [
+				{
+				
+				
+				},
+				{
+				
+				}
+				
+				]
+			}
+		
+		
+		}
+		
+	}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
 					
 					
 
