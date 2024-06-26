@@ -1,0 +1,20 @@
+Type A = HashMap
+HashMap <String,BookType> booksByType =  new HashMap<>();
+
+Type B = Stack(?);
+
+
+public Optional <AbstractBook> findBookByTitle(String title){
+return books.values().stream()
+    .flatMap(bookCollection -> bookCollection
+            .stream().filter)
+        
+
+
+
+
+
+
+
+
+}

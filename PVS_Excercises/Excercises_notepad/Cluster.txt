@@ -1,0 +1,23 @@
+MAX 1 instanz
+
+
+
+public class Computer extends Cluster{
+private static Computer singleton;
+
+public static getSingleton(){
+if(singleton == null){
+singleton= new Computer();
+
+}
+return singleton;
+
+}
+
+}
+
+
+
+
+AUFGABE D
+

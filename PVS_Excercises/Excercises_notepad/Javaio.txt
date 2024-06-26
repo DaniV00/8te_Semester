@@ -1,0 +1,21 @@
+STREAMS
+
+AVG of list of ig
+
+
+
+String string = list.stream()
+			.map(String::toUpperCase)
+			.collect(Collectors.ToList());							//Forms a new arraylist
+			
+			
+			
+			
+			
+
+
+
+
+
+			
+			
