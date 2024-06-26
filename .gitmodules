@@ -1,7 +1,5 @@
 [submodule "PvS sol/exercise-expressioneval"]
 	url = https://gitlab.uni-ulm.de/oop-ss24/public-solutions/exercise-expressioneval
-[submodule "PVS_Excercises/sheet-6"]
-	url = https://gitlab.uni-ulm.de/oop-ss24/public-solutions/sheet-6
 [submodule "PVS_Excercises/sheet-7"]
 	url = https://gitlab.uni-ulm.de/oop-ss24/public-solutions/sheet-7
 [submodule "PVS_Excercises/sheet-8"]
