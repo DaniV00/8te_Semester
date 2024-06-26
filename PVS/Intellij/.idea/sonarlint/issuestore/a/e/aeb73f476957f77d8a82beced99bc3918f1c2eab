@@ -1,11 +1,0 @@
-
-l
-java:S1172
-"*Remove this unused method parameter "age".(ÖþÜO8«ÑÞóý1J$a8938f9f-0823-44b9-95b0-c90b02349bc6
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ã¡º‡ÿÿÿÿÿ8ø¤àóý1J$00dd37bf-0f41-4cf4-a1c5-f520192acf81
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ý­¼¢øÿÿÿÿ8«ÑÞóý1J$5d2e328d-e9d6-42a3-b273-661ab5cf530d
-m	java:S106 "+Replace this use of System.out by a logger.(Àôúþ8Ø­¶šþ1J$fc8edd16-875a-4393-b1bc-ca50fb46ebb1
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ù¸ Ùúÿÿÿÿ8«ÑÞóý1J$ce68f0c7-ea9a-4d6e-b9a5-a324d5678ebf
-~	java:S125#"<This block of commented-out lines of code should be removed.(Êþÿò8«ÑÞóý1J$7657c816-3d98-4a03-b358-85c4ce828167
-v
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Åßàóý1J$4d45514e-09c6-4f94-8b47-b38043ce1a83
