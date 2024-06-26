@@ -1,0 +1,17 @@
+
+t
+java:S1104"WMake boardedPass a static final constant or non-public and provide accessors if needed.( ž­ñ8«ÿ¹Èþ1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ëý”™úÿÿÿÿ8Ìþîþ1
+N
+java:S1444"1Make this "public static boardedPass" field final( ž­ñ8—Ìþîþ1
+:
+java:S2386"Make this member "protected".( ž­ñ8šÌþîþ1
+E	java:S108"")Either remove or fill this block of code.(á¢–¬8šÌþîþ1
+G	java:S106'"+Replace this use of System.out by a logger.(ƒ«®8Ÿ‘ºÈþ1
+G	java:S106)"+Replace this use of System.out by a logger.(Íüð8›Ìþîþ1
+E	java:S1083")Either remove or fill this block of code.(á¢–¬8œÌþîþ1
+U
+java:S1128"3Remove this unused import 'java.util.AbstractList'.(ËÃ€ÿÿÿÿÿ8Ìþîþ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8žÌþîþ1

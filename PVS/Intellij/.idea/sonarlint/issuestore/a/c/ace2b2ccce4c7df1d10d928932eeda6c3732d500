@@ -1,0 +1,20 @@
+
+~	java:S125"<This block of commented-out lines of code should be removed.(àÒ ò8±˜–Óü1J$6d4dc23b-0ee3-4bf2-948a-ed57c50f0778
+m	java:S106"+Replace this use of System.out by a logger.(Û´”8—†™Óü1J$3590d9b6-967c-4a77-bd99-61d5c2e6fa8d
+]	java:S125"<This block of commented-out lines of code should be removed.(¸¢½›ÿÿÿÿÿ8È¤Óü1
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(–ê¿æúÿÿÿÿ8±˜–Óü1J$3e7c017e-065b-4dc4-afad-fea0cfd29de8
+~	java:S125"<This block of commented-out lines of code should be removed.(ğú”µ8Á˜–Óü1J$7192b97b-6a38-49c7-91b0-243c20ca8c12
+z
+java:S1128"7Remove this unused import 'main.java.exercise1.Animal'.(ÿÏö8¶Æ—Óü1J$ddebc5ae-0789-4478-a47a-1dd13248b564
+z
+java:S1128"8Remove this unused import 'main.java.exercise1.Penguin'.(ï„³8¶Æ—Óü1J$6c445bb4-4eee-4205-9266-ee088da41759
+
+java:S1128"=Remove this unused import 'main.java.exercise3.AdditionNode'.(ÿûú8¶Æ—Óü1J$0deae1db-d1fc-435b-bbae-d4e4b00081c2
+†
+java:S1128"CRemove this unused import 'main.java.exercise3.MultiplicationNode'.(¬§é8¶Æ—Óü1J$3c9f605c-dbb7-4196-acb6-914ba9a20532
+‚
+java:S1128":Remove this unused import 'main.java.exercise3.ValueNode'.(èŒ¸¤øÿÿÿÿ8¶Æ—Óü1J$59bfd554-162d-4bb9-a1b5-4cbceb17c3dc
+w
+java:S1128	"4Remove this unused import 'main.java.oop.util.Date'.(æÑ±©8¶Æ—Óü1J$d6595f3e-5737-481b-ae18-263bdd8b8168
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8¶Æ—Óü1J$c7e83bff-a863-4b94-9ec3-7917c9d2e0ee

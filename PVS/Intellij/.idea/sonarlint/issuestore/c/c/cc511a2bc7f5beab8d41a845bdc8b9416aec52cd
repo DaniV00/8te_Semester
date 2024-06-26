@@ -1,0 +1,5 @@
+
+
+java:S1104	"VMake hashCourse a static final constant or non-public and provide accessors if needed.(·ÛÅšıÿÿÿÿ8·Ûëóı1J$1120d353-6354-4b21-b1aa-a51d07b60328
+¯
+java:S1319	"gThe type of "hashCourse" should be an interface such as "Map" rather than the implementation "HashMap".(·ÛÅšıÿÿÿÿ8·Ûëóı1J$db950ee8-7691-4d1a-bddb-3282cace0e2d
