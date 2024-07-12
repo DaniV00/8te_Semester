@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS/Intellij/Blatt5/sheet-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/exercise-sudoku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/exercise-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PVS_Excercises/sheet-9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../exercise-expressioneval" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../exercise-sudoku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sheet-8" vcs="Git" />
+  </component>
+</project>

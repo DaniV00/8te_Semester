@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d307f89-2031-4eca-ade7-e3b9da1cdb87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank/src/main/java/de/uni_ulm/sp/oop/threads/bank/DepositThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank/src/main/java/de/uni_ulm/sp/oop/threads/bank/ThreadClash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank/src/main/java/de/uni_ulm/sp/oop/threads/bank/WithdrawThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank20/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank20/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank20/src/main/java/de/uni_ulm/sp/oop/threads/bank20/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank20/src/main/java/de/uni_ulm/sp/oop/threads/bank20/BankAngestellte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.bank20/src/main/java/de/uni_ulm/sp/oop/threads/bank20/Konto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/CounterFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/InterleavingThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/Interrupt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/Interrupt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/Join1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/Join2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/MainAndT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/MainAndTWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/MainTUV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/MainWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/ManyThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/OnlyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/Parkhaus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/PartialLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/SimpleThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/StoppableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/ThreadT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/ThreadU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PVS/Blätter/de.uni_ulm.sp.oop.threads.examples/src/main/java/de/uni_ulm/sp/oop/threads/examples/ThreadV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/src/main/java/exercise1/iceCreamBusiness.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/src/main/java/exercise1/iceCreamBusiness.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/src/main/java/exercise3/img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../PVS_Excercises/sheet-9/src/main/java/exercise3/img.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sheet-8" beforeDir="false" afterPath="$PROJECT_DIR$/../sheet-8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sheet-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sheet-8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sheet-8/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sheet-8/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sheet-8/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sheet-8/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sheet-8/src/main/java/exercise2/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sheet-8/src/main/java/exercise2/Sale.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sheet-9" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sheet-9" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sheet-9" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hxNCzbbkih2DXWADEh08ujLwtO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.sheet-9 [run].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Dani/Uni/8te_Semester/PvS sol/sheet-10-submission",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/exercise3" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sheet-9 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.sheet-9 [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d307f89-2031-4eca-ade7-e3b9da1cdb87" name="Changes" comment="" />
+      <created>1718531647501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718531647501</updated>
+      <workItem from="1718531649245" duration="289000" />
+      <workItem from="1720474321691" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

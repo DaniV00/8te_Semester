@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Use for IceCreamType -->
+    <xs:simpleType name="IceCreamTypeEnum">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="OASEN_FRUCHTMIX"/>
+            <xs:enumeration value="SANDDÜNEN_SCHOKOLADE"/>
+            <xs:enumeration value="MELANGE_EIS"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="IceCreamBusiness">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="IceCreamTrucks">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Truck" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="ID" type="xs:string"/>
+                                        <!-- TODO position element definition -->
+                                        <xs:element name="Orders">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Order" maxOccurs="unbounded">
+                                                        <xs:complexType>
+                                                            <xs:sequence>
+                                                                <!--  TODO order element definition -->
+                                                            </xs:sequence>
+                                                        </xs:complexType>
+                                                    </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="IceCreamStock">
+                                            <!-- TODO IceCreamStock element definition -->
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
