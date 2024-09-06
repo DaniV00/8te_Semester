@@ -1,0 +1,47 @@
+plugins {
+	id 'java'
+	id 'application'
+}
+
+repositories {
+	mavenCentral()
+}
+
+ext {
+	junitPlatformVersion = '1.9.1'
+	junitJupiterVersion = '5.9.1'
+	assertJVersion = '3.23.1'
+	jqwikVersion = '1.7.0'
+}
+
+compileTestJava {
+	options.compilerArgs += '-parameters'
+	options.encoding = 'UTF-8'
+}
+
+test {
+	useJUnitPlatform()
+
+	// To allow other naming conventions
+	include '**/*Properties.class'
+	include '**/*Tests.class'
+}
+
+application {
+	mainClass = 'de.uni_ulm.sp.oop.collections.CollectionVisualizer'
+}
+
+dependencies {
+	testImplementation(platform('org.junit:junit-bom:5.9.2'))
+	testImplementation('org.junit.jupiter:junit-jupiter')
+	implementation 'guru.nidi:graphviz-java:0.18.1'
+	implementation 'com.eclipsesource.j2v8:j2v8_linux_x86_64:4.6.0'	
+	implementation 'com.eclipsesource.j2v8:j2v8_macosx_x86_64:4.6.0'	
+	implementation 'com.eclipsesource.j2v8:j2v8_win32_x86_64:4.6.0'	
+}
+
+java {
+    toolchain {
+            languageVersion.set(JavaLanguageVersion.of(21))
+    }
+}
