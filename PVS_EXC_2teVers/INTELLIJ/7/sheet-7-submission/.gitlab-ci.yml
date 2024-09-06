@@ -1,0 +1,48 @@
+image: gradle:8.7.0-jdk21
+
+stages:
+  - build
+  - test
+
+cache:
+  paths:
+    - .gradle/wrapper
+    - .gradle/caches
+
+build:
+  stage: build
+  script:
+    - chmod +x ./gradlew
+    - ./gradlew assemble
+  only:
+    - main
+    - merge_requests
+
+.tests: &test_configuration
+  stage: test
+  needs: ["build"]
+  only:
+    - main
+    - merge_requests
+  artifacts:
+    when: always
+    paths:
+      - build/test-results/test/**/TEST-*.xml
+    reports:
+      junit: build/test-results/test/**/TEST-*.xml
+
+
+test-exercise-1:
+  <<: *test_configuration
+  script:
+    - ./gradlew test -i --tests "*exercise1*"
+
+test-exercise-2:
+  <<: *test_configuration
+  script:
+    - ./gradlew test -i --tests "*exercise2*"
+
+test-exercise-3:
+  <<: *test_configuration
+  script:
+    - ./gradlew test -i --tests "*exercise3*"

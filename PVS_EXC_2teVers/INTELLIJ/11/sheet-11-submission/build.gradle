@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.13'
+}
+
+group = 'de.uni-ulm.oop'
+version = '1.0-SNAPSHOT'
+
+mainClassName = 'de.uni_ulm.sp.oop.sose24.sheet11.sudoku.Main'
+
+
+javafx {
+    version = "21"
+    modules = [ 'javafx.controls' ]
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.junit.jupiter:junit-jupiter:5.8.1'
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation 'org.reflections:reflections:0.9.12'
+    implementation 'org.openjfx:javafx-controls:21'
+}
+
+test {
+    useJUnitPlatform()
+}
