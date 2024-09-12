@@ -1,5 +1,6 @@
 import exercise1.*;
 import exercise3.AdditionNote;
+import exercise3.MultiplicationNode;
 import exercise3.ValueNode;
 
 public class Main {
@@ -15,9 +16,19 @@ public class Main {
         pingu.print();*/
 
         ValueNode treeL = new ValueNode(1);
-        ValueNode treeR = new ValueNode(3);
+        ValueNode treeR = new ValueNode(9);
         AdditionNote node = new AdditionNote(treeL, treeR);
-        System.out.println(node.evaluate());
+        ValueNode nal2 = new ValueNode(4);
+        MultiplicationNode mult = new MultiplicationNode(nal2, node);
+        System.out.println(mult.evaluate());
+
+
+
+
+
+
+
+
 
 
 
