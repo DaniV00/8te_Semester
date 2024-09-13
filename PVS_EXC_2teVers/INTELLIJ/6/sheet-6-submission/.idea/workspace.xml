@@ -6,14 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f12d54ed-9d0c-4a35-92e2-27dfb5e7f8fc" name="Changes" comment="test">
       <changelist_data name="Raphael Straub" email="raphael.straub@uni-ulm.de" date="1717316330000" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3" afterDir="false" />
     </list>
@@ -84,6 +79,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Dani/Uni/8te_Semester/PVS_EXC_2teVers/INTELLIJ/6/sheet-6-submission",
     "node.js.detected.package.eslint": "true",
@@ -137,6 +133,7 @@
       <workItem from="1726151996367" duration="634000" />
       <workItem from="1726153245269" duration="87000" />
       <workItem from="1726231697833" duration="5704000" />
+      <workItem from="1726239539656" duration="1531000" />
     </task>
     <servers />
   </component>

@@ -17,9 +17,14 @@ public class Main {
         listStud.add(dani);
         listStud.add(osch);
         listStud.add(ram);
+        List list2 = new ArrayList();
+        list2.add(dani);
+        list2.add(ram);
         PvS.addToStudents(listStud);
         System.out.println(PvS.studentToCourse.keySet());
         System.out.println(Bio.studentToCourse.keySet());
+        PvS.removeStudents(list2);
+        System.out.println(PvS.studentToCourse.keySet());
 
     }
 }
