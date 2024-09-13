@@ -9,6 +9,17 @@ public class Student {
         this.name = name;
     }
 
+
+    public void enrollInCourse(Course course){
+        course.studentToCourse.put(name,course);
+        System.out.println("The student "+ name + " has been subscribed to the course " + course.getCourseName());
+    }
+
+    public void leaveCourse(Course course){
+        course.studentToCourse.remove(name);
+        System.out.println("The student "+ name + " has been removed to the course " + course.getCourseName());
+    }
+
     public String getId() {
         return id;
     }
