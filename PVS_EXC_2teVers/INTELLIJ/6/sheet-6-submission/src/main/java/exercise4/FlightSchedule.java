@@ -1,21 +1,29 @@
 package exercise4;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class FlightSchedule {
+    HashMap<String, Flight > flightAndNr;
+    HashMap<Reservation,Passenger > passengerAndRes;
+    int resid = 0;
+
+
     public void addFlight(Flight flight) {
-        // TODO in exercise a
-    }
+    flightAndNr.put(flight.getFlightNumber(), flight);
+         }
 
     public Flight getFlight(String flightNumber) {
-        // TODO in exercise a
-        return null;
+        return flightAndNr.get(flightNumber);
     }
 
     public Reservation makeReservation(String flightNumber, Passenger passenger) {
-        // TODO in exercise a
+        Reservation res = new Reservation(String.valueOf(resid), flightNumber, passenger.getPassengerId(), LocalDateTime.now() );
+        resid++;
+        passengerAndRes.put(res,passenger);
         return null;
     }
 

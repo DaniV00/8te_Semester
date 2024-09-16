@@ -19,7 +19,14 @@ public class Flight {
     }
 
     public boolean boardFlight(Passenger passenger) {
-        // TODO in exercise b
+        FlightSchedule sched = new FlightSchedule();
+        Reservation reserve= new Reservation(sched.);
+        if(passenger.getPassengerId() == ){
+
+        }
+        else{
+
+        }
         return false;
     }
 
