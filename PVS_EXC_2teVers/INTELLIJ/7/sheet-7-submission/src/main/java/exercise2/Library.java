@@ -12,6 +12,12 @@ public class Library {
         this.books = books;
     }
 
+    public void applyRatings(BookRater rater) {
+        for (int i = 0; i < books.size(); i++) {
+            rater.rate(books.stream().iterator().next());
+        }
+    }
+
     public void addUser(LibraryUser user) {
         users.add(user);
     }

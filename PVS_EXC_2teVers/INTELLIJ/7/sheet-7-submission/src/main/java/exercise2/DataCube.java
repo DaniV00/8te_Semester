@@ -46,4 +46,9 @@ public class DataCube implements Book {
         return books.stream()
                 .allMatch(ElectronicBook::isAvailable);
     }
+
+    @Override
+    public void rateBook(BookRater rater) {
+        books.forEach(b->rater.rate(b));
+    }
 }

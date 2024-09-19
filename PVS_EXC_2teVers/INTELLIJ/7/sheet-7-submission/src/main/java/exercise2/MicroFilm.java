@@ -55,6 +55,12 @@ public class MicroFilm implements Book {
         return isReadable() && available;
     }
 
+    @Override
+    public void rateBook(BookRater rater) {
+        MicroFilm mfilm = new MicroFilm(this.author, this.title, this.contents, this.durability);
+        rater.rate(mfilm);
+    }
+
     public void setRating(double rating) {
         this.rating = rating;
     }

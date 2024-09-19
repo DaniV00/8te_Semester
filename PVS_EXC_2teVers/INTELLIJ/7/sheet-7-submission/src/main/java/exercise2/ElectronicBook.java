@@ -40,6 +40,12 @@ public class ElectronicBook implements Book {
         return this.available;
     }
 
+    @Override
+    public void rateBook(BookRater rater) {
+        ElectronicBook ebook = new ElectronicBook(this.author,this.title,this.contents);
+        this.rating = rater.rate(ebook);
+    }
+
     public void setRating(double rating) {
         this.rating = rating;
     }
