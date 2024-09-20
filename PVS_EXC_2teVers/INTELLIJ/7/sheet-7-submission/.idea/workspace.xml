@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe71cb5-ce49-4135-bc20-6d836913590e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise2/BookFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
