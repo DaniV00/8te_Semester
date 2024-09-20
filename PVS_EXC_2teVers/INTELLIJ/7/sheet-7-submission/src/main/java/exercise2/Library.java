@@ -1,7 +1,9 @@
 package exercise2;
 
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
+import java.util.stream.Stream;
 
 public class Library {
     private final Set<LibraryUser> users;
@@ -13,9 +15,14 @@ public class Library {
     }
 
     public void applyRatings(BookRater rater) {
-        for (int i = 0; i < books.size(); i++) {
-            rater.rate(books.stream().iterator().next());
-        }
+      books.stream().forEach(book -> rater.rate(book));
+    }
+
+    public List <Book> formatbooks(BookFormatter formatter) {
+
+       books.stream().forEach(book -> formatter.format(book));
+
+       return books.stream().toList();
     }
 
     public void addUser(LibraryUser user) {
