@@ -30,6 +30,21 @@ public class IceCreamMaschine {
         }
     }
 
+    public IceCream buyIceCream(String sort){
+        IceCream iceToBuy = produceIceCream(sort);
+        Integer availableStock = stock.get(iceToBuy);
+        if(iceToBuy != null){
+            availableStock = availableStock - 1;
+            stock.put(iceToBuy, availableStock);
+            System.out.println("HOORAY ICE CREAM " + availableStock.intValue());
+        }
+        else {
+            throw new IllegalArgumentException();
+        }
+
+        return iceToBuy;
+    }
+
     private boolean repairMachine(String componentId) {
         return false;
     }

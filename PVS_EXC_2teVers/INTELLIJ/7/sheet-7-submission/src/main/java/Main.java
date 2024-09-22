@@ -15,7 +15,7 @@ public class Main {
 
     public static String concaten(List<String> listString) {
 
-        return listString.stream().reduce("", (s1, s2) -> s1 + s2);
+        return listString.stream().reduce("",String::concat);
 
     }
 
@@ -63,14 +63,9 @@ public class Main {
                 new ValuableItem("Item2", 5,"nanas"));
 
 
-        //System.out.println(sumOfIntegers(list));
-        //System.out.println(concaten(listString));
         System.out.println((findMin(items)));
         System.out.println((findAvg(items)));
         System.out.println((findMedian(list)));
-
-
-
 
 
 
