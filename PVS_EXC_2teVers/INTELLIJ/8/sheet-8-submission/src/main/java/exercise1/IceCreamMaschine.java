@@ -1,5 +1,6 @@
 package exercise1;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -17,7 +18,22 @@ public class IceCreamMaschine {
     }
 
     public List<IceCream> buyIceCream(List<String> orders) {
-        return null;
+
+        List<IceCream> iceFlave = new ArrayList<>();
+        for(String order : orders){
+
+            try{
+                iceFlave.add(produceIceCream(order));
+            }
+            catch(Exception e){
+                System.out.println("One flavour is not available");
+            }
+        }
+
+
+        System.out.println(iceFlave);
+        return iceFlave;
+
     }
 
     private IceCream produceIceCream(String sort) {
@@ -30,19 +46,21 @@ public class IceCreamMaschine {
         }
     }
 
-    public IceCream buyIceCream(String sort){
+
+    public void buyIceCream(String sort) throws IceCreamNotAvailableException {
         IceCream iceToBuy = produceIceCream(sort);
         Integer availableStock = stock.get(iceToBuy);
-        if(iceToBuy != null){
-            availableStock = availableStock - 1;
-            stock.put(iceToBuy, availableStock);
-            System.out.println("HOORAY ICE CREAM " + availableStock.intValue());
-        }
-        else {
-            throw new IllegalArgumentException();
+        if (iceToBuy != null) {
+            if (availableStock <= 0) {
+                IceCreamNotAvailableException iceException = new IceCreamNotAvailableException("No icecream available");
+                throw iceException;
+            } else {
+                availableStock = availableStock - 1;
+                stock.put(iceToBuy, availableStock);
+                System.out.println("HOORAY ICE CREAM " + availableStock.intValue());
+            }
         }
 
-        return iceToBuy;
     }
 
     private boolean repairMachine(String componentId) {
