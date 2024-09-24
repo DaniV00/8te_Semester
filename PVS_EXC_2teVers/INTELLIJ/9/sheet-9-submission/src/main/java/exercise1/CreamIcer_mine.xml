@@ -1,0 +1,18 @@
+<IceCreamBusiness>
+    <IceCreamTruck id ="1">
+        <Position> Berlin </Position>
+        <Orders>
+            <IceCream id="10" price ="2.5" ingredients="tometos"/>
+            <IceCream id="20" price="3.4" ingredients="potetos"/>
+        </Orders>>
+    </IceCreamTruck>
+    <IceCreamTruck id ="2">
+    <Position> Hannover </Position>
+        <Orders>
+            <IceCream id="lingo" dood = "bimbo" sees = "lindo"/>
+        </Orders>>
+
+
+    </IceCreamTruck>
+
+</IceCreamBusiness>

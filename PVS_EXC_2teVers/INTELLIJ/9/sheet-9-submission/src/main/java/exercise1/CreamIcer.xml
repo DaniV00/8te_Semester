@@ -1,0 +1,60 @@
+<IceCreamBusiness>
+    <IceCreamTruck id="1">
+        <Position>Berlin</Position>
+        <Orders>
+            <Order>
+                <IceCream id="101" quantity="2" price="2.50"/>
+                <IceCream id="102" quantity="1" price="3.00"/>
+            </Order>
+            <Order>
+                <IceCream id="103" quantity="3" price="1.50"/>
+            </Order>
+        </Orders>
+        <IceCreamTypes>
+            <IceCreamType id="101" price="2.50">
+                <CurrentStock>10</CurrentStock>
+                <SupplyLocations>
+                    <Location>Warehouse A</Location>
+                    <Location>Supplier X</Location>
+                </SupplyLocations>
+            </IceCreamType>
+            <IceCreamType id="102" price="3.00">
+                <CurrentStock>5</CurrentStock>
+                <SupplyLocations>
+                    <Location>Warehouse B</Location>
+                </SupplyLocations>
+            </IceCreamType>
+            <IceCreamType id="103" price="1.50">
+                <CurrentStock>8</CurrentStock>
+                <SupplyLocations>
+                    <Location>Warehouse C</Location>
+                    <Location>Supplier Y</Location>
+                </SupplyLocations>
+            </IceCreamType>
+        </IceCreamTypes>
+    </IceCreamTruck>
+
+    <IceCreamTruck id="2">
+        <Position>Hamburg</Position>
+        <Orders>
+            <Order>
+                <IceCream id="101" quantity="4" price="2.50"/>
+            </Order>
+        </Orders>
+        <IceCreamTypes>
+            <IceCreamType id="101" price="2.50">
+                <CurrentStock>12</CurrentStock>
+                <SupplyLocations>
+                    <Location>Warehouse A</Location>
+                    <Location>Supplier X</Location>
+                </SupplyLocations>
+            </IceCreamType>
+            <IceCreamType id="104" price="2.00">
+                <CurrentStock>6</CurrentStock>
+                <SupplyLocations>
+                    <Location>Warehouse D</Location>
+                </SupplyLocations>
+            </IceCreamType>
+        </IceCreamTypes>
+    </IceCreamTruck>
+</IceCreamBusiness>

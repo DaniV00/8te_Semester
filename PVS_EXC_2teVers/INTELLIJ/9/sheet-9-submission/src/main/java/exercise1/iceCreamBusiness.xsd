@@ -20,13 +20,23 @@
                                 <xs:complexType>
                                     <xs:sequence>
                                         <xs:element name="ID" type="xs:string"/>
-                                        <!-- TODO position element definition -->
+                                        <xs:element name="Position" type="xs:string"/>
                                         <xs:element name="Orders">
                                             <xs:complexType>
                                                 <xs:sequence>
                                                     <xs:element name="Order" maxOccurs="unbounded">
                                                         <xs:complexType>
                                                             <xs:sequence>
+                                                                <xs:element name = "IceCream" maxOccurs="unbounded">
+                                                                    <xs:complexType>
+                                                                        <xs:sequence>
+                                                                            <xs:element name ="ID" type="xs:string"/>
+                                                                            <xs:element name = "Price" type="xs:decimal"/>
+                                                                            <xs:element name = "Quantity" type="xs:integer"/>
+                                                                        </xs:sequence>
+                                                                    </xs:complexType>
+                                                                </xs:element>>
+                                                            </xs:sequence>
                                                                 <!--  TODO order element definition -->
                                                             </xs:sequence>
                                                         </xs:complexType>
