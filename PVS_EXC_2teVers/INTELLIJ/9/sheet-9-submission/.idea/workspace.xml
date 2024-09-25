@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d307f89-2031-4eca-ade7-e3b9da1cdb87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../7/sheet-7-submission/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7/sheet-7-submission/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../8/sheet-8-submission/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8/sheet-8-submission/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise3/SVGCloudSelector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../8/sheet-8-submission/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8/sheet-8-submission/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../PvS sol/sheet-8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise1/iceCreamBusiness.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise1/iceCreamBusiness.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../PVS_Excercises/sheet-3/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +82,14 @@
   "keyToString": {
     "Gradle.sheet-9 [run].executor": "Run",
     "Gradle.sheet-9-submission [:Main.main()].executor": "Run",
+    "Gradle.sheet-9-submission [:SVGCloudSelector.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Dani/Uni/8te_Semester/PVS_EXC_2teVers/INTELLIJ/9/sheet-9-submission/src/main/java/exercise1",
+    "last_opened_file_path": "C:/Dani/Uni/8te_Semester/PVS_EXC_2teVers/INTELLIJ/10/sheet-10-submission",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,9 +110,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.SVGCloudSelector">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sheet-9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SVGCloudSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SVGCloudSelector" />
       <module name="sheet-9.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,6 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SVGCloudSelector" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.sheet-9 [run]" />
       </list>
@@ -143,8 +158,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -158,6 +173,7 @@
       <updated>1718531647501</updated>
       <workItem from="1718531649245" duration="289000" />
       <workItem from="1727217343869" duration="3858000" />
+      <workItem from="1727269024679" duration="2848000" />
     </task>
     <servers />
   </component>
